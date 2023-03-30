@@ -12,8 +12,7 @@ import static com.unasat.utility.UtilityMethods.isOptionCorrect;
 public class Main {
 
     /**
-     * @Developer: Emmanuella Jasmin.
-     * @Studentnummer: SNE/1118/009
+     * @Developer: Akhsaykumar Bhoendie
      * @Project: Mildred's Kookschool
      * @Description: De applicatie is gebouwd voor registratie van dagelijkse activiteiten voor de kookschool.
      * Verschillende zaken worden bijgehouden nl.:
